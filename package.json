@@ -1,5 +1,5 @@
 {
-  "name": "png-to-ico",
+  "name": "@bytize/png-to-ico",
   "version": "2.1.4",
   "description": "convert png to windows ico format",
   "main": "index.js",
